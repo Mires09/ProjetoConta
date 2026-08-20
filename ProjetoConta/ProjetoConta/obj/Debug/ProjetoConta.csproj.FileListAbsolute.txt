@@ -1,7 +1,0 @@
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe.config
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.exe
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\bin\Debug\ProjetoConta.pdb
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.AssemblyReference.cache
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.csproj.CoreCompileInputs.cache
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.exe
-C:\Users\lenno\OneDrive\Documentos\IFBA\4º Ano\LP III\Atividades\II Unidade\ProjetoConta\ProjetoConta\obj\Debug\ProjetoConta.pdb
